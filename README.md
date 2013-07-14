@@ -5,5 +5,5 @@ This is basically an edit of the virtuawin rainmeter skin with monsterwm icons.
 
 You need virtuawin in order for this skin to work
 
-Edit result should look like this:
-http://i.imgur.com/KBlhghi.png
+##Download
+Click https://sourceforge.net/projects/bbrainbar/files/bbrainbar_1.0.rmskin/download
